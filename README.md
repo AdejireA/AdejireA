@@ -1,3 +1,4 @@
+
 <h1 align="center">👋🏾 Hello there, I am ADEJIRE ADEGITE O. </h1>
 
 <h4 align="center">I'm an aspiring Robotics Engineer. I'm currently learning C++ and Python.</h4>
@@ -19,5 +20,4 @@ When I'm not coding, you can find me enjoying music, anime, or playing Call of D
  </td>
  </tr>
  </table>
- 
  
