@@ -16,7 +16,7 @@
 
 When I'm not coding, you can find me enjoying music, anime, or playing Call of Duty Mobile. I'm excited to connect with like-minded individuals and potential collaborators. Feel free to reach out to me through my social media channels and let's explore the possibilities of robotics together!"</p>
 
-<h4 align="center">📋My Resume: https://bit.ly/4e8msBa.</h4>
+
  </td>
  </tr>
  </table>
