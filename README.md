@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
 </picture>
 
 ## `01 — SENSE`
@@ -14,23 +14,23 @@
 input   : current focus
 --------------------------------------------------------------
 FYP     : Dual-mode ROS2 agricultural scouting robot
-GOAL    : Graduate study in robotics, abroad
+GOAL    : Graduate study in robotics engineering
 ```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
 </picture>
 
 ## `02 — PROCESS`
 
-I am an Electrical and Electronics Engineering student at FUTA, working on embedded systems and robotics that need to survive real conditions, not just a lab bench. Most of my time right now goes into a scouting robot for agriculture, and into writing honestly about what breaks along the way. I lead the IEEE Student Branch on campus, and I write and compete because building something that works and explaining how it works are the same skill to me.
+I am an Electrical and Electronics Engineering student at FUTA, working on embedded systems and robotics that need to survive real conditions, not just a lab bench. Most of my time right now goes into a scouting robot for agriculture, and into writing honestly about what breaks along the way. I lead the IEEE Student Branch on campus, and I document because building something that works and explaining how it works are the same skill to me.
 
 Open to conversations on robotics, embedded systems, or anything that involves getting hardware and software to actually cooperate.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
 </picture>
 
 ## `03 — ACT`
@@ -48,12 +48,10 @@ Open to conversations on robotics, embedded systems, or anything that involves g
 > **Just Logs** — a public, unfiltered record of what breaks and what I learn fixing it.
 >
 > [LinkedIn](https://linkedin.com/in/adegite-adejire) · [Medium](https://medium.com/@adegite-adejire) · [Hashnode](https://hashnode.com/@adegite-adejire) · [X](https://x.com/AdejireA)
->
-> <sub>update the Medium / Hashnode handles above if they differ</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%">
+  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
 </picture>
 
 ### `// stack`
