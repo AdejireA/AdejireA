@@ -1,68 +1,96 @@
-<h1 align="center"><code>ADEJIRE ADEGITE O.</code></h1>
-<h4 align="center"><code>Electrical & Electronics Engineering — Embedded Systems / Robotics</code></h4>
-
-<p align="center"><sub>FUTA, Nigeria</sub></p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Adejire Adegite — Electrical &amp; Electronics Engineering. Robotics · Embedded Systems · Intelligent Systems. An abstract mobile robot follows a planned trajectory within a sensing field." width="100%">
 </picture>
 
-## `01 — SENSE`
+Building intelligent systems that sense, reason, and operate in the physical world.
 
-```
-input   : current focus
---------------------------------------------------------------
-FYP     : Dual-mode ROS2 agricultural scouting robot
-GOAL    : Graduate study in robotics engineering
-```
+I'm an Electrical & Electronics Engineering student at FUTA building at the intersection of robotics, embedded systems, and intelligent systems. My work ranges from autonomous field robots and sensor-driven IoT systems to edge intelligence and agricultural decision support.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
-</picture>
+I'm particularly interested in engineering problems where hardware, software, and the physical world have to work together.
 
-## `02 — PROCESS`
+## Selected Engineering Work
 
-I am an Electrical and Electronics Engineering student at FUTA, working on embedded systems and robotics that need to survive real conditions, not just a lab bench. Most of my time right now goes into a scouting robot for agriculture, and into writing honestly about what breaks along the way. I lead the IEEE Student Branch on campus, and I document because building something that works and explaining how it works are the same skill to me.
+### Agricultural Field Scouting Robot
 
-Open to conversations on robotics, embedded systems, or anything that involves getting hardware and software to actually cooperate.
+*Final Year Research · 2026*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/field-robot-dark.svg">
+  <img src="assets/projects/field-robot-light.svg" alt="Conceptual field robot navigating between crop rows, with a planned route, sensing arcs, and a dashed communication link to an operator station." width="100%">
 </picture>
 
-## `03 — ACT`
+A dual-mode agricultural UGV combining autonomous navigation with manual override. Final-year research evaluates how network constraints affect robot operation, with an emphasis on navigation and control in field conditions.
 
-### `builds`
+**Technologies:** ROS 2 · Nav2 · Gazebo · RViz · Python
 
-[`ros2-farm-scout-FYP`](https://github.com/AdejireA/ros2-farm-scout-FYP) — a dual-mode ROS2 robot that switches between autonomous and manual control for field scouting, built to handle the unpredictability of a real farm rather than a controlled test track.
+[Explore the repository](https://github.com/AdejireA/ros2-farm-scout-FYP)
 
-`TerraSync` — an offline-capable PWA that gives smallholder farmers crop advisory, photo-based pest diagnosis through a vision model, weather forecasts, and task tracking in one place, usable even without a stable connection.
+### TerraSync
 
-`Squad Sentinel` — a ghost-worker detection system built for a hackathon that flags suspicious payroll entries using isolation forest anomaly scoring, with payment gating and webhook verification built in.
-
-### `log_stream`
-
-> **Just Logs** — a public, unfiltered record of what breaks and what I learn fixing it.
->
-> [LinkedIn](https://linkedin.com/in/adegite-adejire) · [Medium](https://medium.com/@adegite-adejire) · [Hashnode](https://hashnode.com/@adegite-adejire) · [X](https://x.com/AdejireA)
+*Product Development · 2026*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img src="assets/divider-light.svg" alt="" width="100%" height="20">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/terrasync-dark.svg">
+  <img src="assets/projects/terrasync-light.svg" alt="Crop growth and field-state glyphs combine with weather input to inform a TerraSync advisory. Conceptual illustration." width="100%">
 </picture>
 
-### `// stack`
+An agricultural decision-support platform combining crop-stage, weather, and field information into actionable guidance for smallholder farmers. The product focus is making agricultural information useful in day-to-day decisions.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-1A1A2E?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-1A1A2E?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/ROS2-1A1A2E?style=flat-square&logo=ros&logoColor=white" alt="ROS2">
-  <img src="https://img.shields.io/badge/ESP--IDF-1A1A2E?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF">
-</p>
+**Technologies:** Django · Python · Weather Data · Agricultural Decision Support
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdejireA&show_icons=true&hide_border=true&theme=transparent&text_color=888888&icon_color=888888&title_color=888888" alt="AdejireA's GitHub stats" width="440">
+### Solar Battery Anomaly Detection
 
-<p align="center"><sub>output feeds back into input — loop continues</sub></p>
+*Research Project · 2026*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/battery-anomaly-dark.svg">
+  <img src="assets/projects/battery-anomaly-light.svg" alt="Conceptual processing diagram: battery history and historical windows feed a feature representation, followed by anomaly scoring. The signal is illustrative, not experimental data." width="100%">
+</picture>
+
+Lightweight, label-free anomaly detection for off-grid solar batteries using Isolation Forest and battery-relative historical features, designed with edge-oriented monitoring constraints in mind. This reduces dependence on labelled fault datasets for monitoring.
+
+**Technologies and methods:** Python · Isolation Forest · Historical features · Machine learning
+
+### Solar Energy Monitoring System
+
+*Embedded Systems Project*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/solar-monitoring-dark.svg">
+  <img src="assets/projects/solar-monitoring-light.svg" alt="System-level architecture showing photovoltaic, battery, load-current, and temperature sensing feeding an ESP32 and MQTT telemetry. This is not an electrical wiring schematic." width="100%">
+</picture>
+
+An ESP32-based solar monitoring system connecting photovoltaic, battery, load-current, and temperature sensing with MQTT telemetry, with an emphasis on sensor integration and embedded data acquisition.
+
+**Technologies:** ESP32 · INA226 · SCT-013 · DS18B20 · MQTT · C/C++
+
+## Engineering Capabilities
+
+| Robotics & Autonomy | Embedded & IoT |
+| --- | --- |
+| ROS 2 · Nav2 · Gazebo · RViz | ESP32 · C/C++ · MQTT · Sensors |
+| **Software & Intelligence** | **Tools & Environment** |
+| Python · Django · Machine Learning · OpenCV | Linux · Git · GitHub · MATLAB |
+
+## Research Directions
+
+Field Robotics · Autonomous Systems · Network-Constrained Robotics · Edge Intelligence · Agricultural Technology
+
+GeoAI and Earth observation are emerging areas of exploration, particularly in relation to agricultural resilience.
+
+## Engineering & Community
+
+**Smart Systems Research Laboratory, FUTA**
+
+Research, hardware development, and laboratory work on student engineering projects spanning embedded systems, robotics, IoT, and intelligent systems.
+
+**IEEE FUTA Student Branch**
+
+Technical community building, engineering programmes, and student professional development.
+
+## Writing & Contact
+
+I document engineering work, including what breaks and what I learn while fixing it. Read my writing on [Medium](https://medium.com/@adegite-adejire) and [Hashnode](https://hashnode.com/@adegite-adejire).
+
+[LinkedIn](https://linkedin.com/in/adegite-adejire) · [GitHub](https://github.com/AdejireA) · [X](https://x.com/AdejireA)

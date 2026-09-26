@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Solar energy monitoring · sensing, ESP32, MQTT telemetry</title>
+  <desc id="desc">Conceptual engineering illustration. Geometry is illustrative and does not represent measured results.</desc>
+  <rect x="0.5" y="0.5" width="959" height="299" rx="16" fill="#F6F8FA" stroke="#CCD3DB" />
+  <text x="32" y="37" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#596674" letter-spacing="1.5">SOLAR ENERGY MONITORING</text>
+  <text x="103" y="82" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17212B">Photovoltaic</text>
+  <path d="M246,76 H305 V154 H382" fill="none" stroke="#596674" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="103" y="133" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17212B">Battery</text>
+  <path d="M246,127 H305 V154 H382" fill="none" stroke="#596674" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="103" y="184" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17212B">Load current</text>
+  <path d="M246,178 H305 V154 H382" fill="none" stroke="#596674" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="103" y="235" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#17212B">Temperature</text>
+  <path d="M246,229 H305 V154 H382" fill="none" stroke="#596674" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="382" y="102" width="193" height="105" rx="10" fill="#FFFFFF" stroke="#CCD3DB" />
+  <text x="413" y="145" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#17212B">ESP32</text>
+  <text x="407" y="178" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#596674">Data acquisition</text>
+  <path d="M575,154 H684" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="684" cy="154" r="4" fill="#0F766E" />
+  <rect x="684" y="102" width="241" height="105" rx="10" fill="#FFFFFF" stroke="#CCD3DB" />
+  <text x="712" y="145" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#17212B">MQTT</text>
+  <text x="712" y="178" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#596674">Telemetry</text>
+  <text x="32" y="279" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#596674">System-level architecture · conceptual relationships</text>
+  <path d="M47,62 H78 L84,84 H41 Z M45,73 H81 M57,62 L54,84 M68,62 L71,84 M62,84 V92 M49,92 H75" fill="none" stroke="#596674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M45,116 H79 V138 H45 Z M79,122 H84 V132 H79 M51,121 V133 M58,121 V133 M65,121 V133" fill="none" stroke="#596674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M62,161 V195 M49,165 C35,178 49,191 62,191 C79,191 88,177 75,165 M53,171 C45,180 56,187 64,183" fill="none" stroke="#596674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M60,234 V216 C60,208 70,208 70,216 V234 A10,10 0 1 1 60,234 M65,220 V241" fill="none" stroke="#596674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="65" cy="241" r="3" fill="#0F766E" />
+</svg>

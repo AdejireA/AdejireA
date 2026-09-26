@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">TerraSync · information to practical guidance</title>
+  <desc id="desc">Conceptual engineering illustration. Geometry is illustrative and does not represent measured results.</desc>
+  <rect x="0.5" y="0.5" width="959" height="249" rx="16" fill="#F6F8FA" stroke="#CCD3DB" />
+  <text x="32" y="37" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#596674" letter-spacing="1.5">AGRICULTURAL DECISION SUPPORT</text>
+  <rect x="36" y="61" width="180" height="44" rx="10" fill="#FFFFFF" stroke="#CCD3DB" />
+  <path d="M66,98 V69 M66,86 C49,86 48,75 48,75 C61,73 66,81 66,86 M66,77 C79,77 83,65 83,65 C69,65 66,73 66,77" fill="none" stroke="#596674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="101" y="86" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#17212B">Crop stage</text>
+  <path d="M45,148 H80 C96,148 96,131 82,131 C77,116 55,119 55,132 C42,129 37,142 45,148" fill="none" stroke="#596674" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M58,154 l-3,7 M74,154 l-3,7" fill="none" stroke="#0F766E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="101" y="143" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#17212B">Weather</text>
+  <path d="M42,204 L65,186 L89,199 L66,217 Z M51,207 L74,190 M61,212 L83,195" fill="none" stroke="#596674" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="101" y="207" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#17212B">Field state</text>
+  <path d="M224,83 H272 V142 H326" fill="none" stroke="#CCD3DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M224,142 H272 V142 H326" fill="none" stroke="#CCD3DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M224,201 H272 V142 H326" fill="none" stroke="#CCD3DB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="353" y="133" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#17212B">TerraSync</text>
+  <text x="353" y="164" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#596674">Information in context</text>
+  <path d="M560,142 H646" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="646" cy="142" r="4" fill="#0F766E" />
+  <rect x="646" y="66" width="277" height="154" rx="10" fill="#FFFFFF" stroke="#CCD3DB" />
+  <text x="669" y="101" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#17212B">Field advisory</text>
+  <path d="M670,148 h158" fill="none" stroke="#CCD3DB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M670,171 h176" fill="none" stroke="#CCD3DB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="670" y="200" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#596674">Agricultural decisions</text>
+  <path d="M670,122 H681 M675,117 V128" fill="none" stroke="#0F766E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M693,125 H861" fill="none" stroke="#CCD3DB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
