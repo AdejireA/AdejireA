@@ -52,6 +52,8 @@ Lightweight, label-free anomaly detection for off-grid solar batteries using Iso
 
 **Technologies and methods:** Python · Isolation Forest · Historical features · Machine learning
 
+[Explore the repository](https://github.com/AdejireA/battery-anomaly-edge)
+
 ### Solar Energy Monitoring System
 
 *Embedded Systems Project*
@@ -64,6 +66,8 @@ Lightweight, label-free anomaly detection for off-grid solar batteries using Iso
 An ESP32-based solar monitoring system connecting photovoltaic, battery, load-current, and temperature sensing with MQTT telemetry, with an emphasis on sensor integration and embedded data acquisition.
 
 **Technologies:** ESP32 · INA226 · SCT-013 · DS18B20 · MQTT · C/C++
+
+[Explore the repository](https://github.com/AdejireA/solar-energy-monitoring-system)
 
 ## Engineering Capabilities
 
